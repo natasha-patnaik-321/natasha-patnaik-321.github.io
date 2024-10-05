@@ -12,7 +12,9 @@ Education
 ======
 
 * PhD in Operations Research, 2024 - 2029
+  
   Massachusetts Institute of Technology
 
 * BA in Operations Research & Mathematical Economics (Double-Major), 2020 - 2024
+  
   Rice University
