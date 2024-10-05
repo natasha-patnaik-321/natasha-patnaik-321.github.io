@@ -15,5 +15,4 @@ Education
   Massachusetts Institute of Technology
 
 - **BA in Operations Research & Mathematical Economics (Double-Major)**, 2020 - 2024 \
-  
   Rice University
