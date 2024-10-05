@@ -21,7 +21,7 @@ repository               : "natasha-patnaik-321.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/ID-1.JPG"
+  avatar           : "patnaiknatasha.png"
   name             : "Natasha Patnaik"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student @ MIT Operations Research Center."
