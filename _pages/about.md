@@ -11,10 +11,9 @@ I am a first-year PhD student at MIT's Operations Research Center. I will be upd
 Education
 ======
 
-* PhD in Operations Research, 2024 - 2029
-  
+- **PhD in Operations Research**, 2024 - 2029 \
   Massachusetts Institute of Technology
 
-* BA in Operations Research & Mathematical Economics (Double-Major), 2020 - 2024
+- **BA in Operations Research & Mathematical Economics (Double-Major)**, 2020 - 2024 \
   
   Rice University
