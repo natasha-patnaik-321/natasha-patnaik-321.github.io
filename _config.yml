@@ -24,7 +24,7 @@ author:
   avatar           : "ID-1.JPG"
   name             : "Natasha Patnaik"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "PhD Student @ MIT Operations Research Center."
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/natasha-patnaik-321"
+  github           : natasha-patnaik-321
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
