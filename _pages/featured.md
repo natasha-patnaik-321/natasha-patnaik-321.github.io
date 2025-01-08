@@ -11,3 +11,10 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<h2>Featured</h2>
+{% for post in site.posts %}
+  {% if post.categories contains "Featured" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

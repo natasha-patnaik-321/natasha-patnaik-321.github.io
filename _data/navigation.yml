@@ -14,3 +14,6 @@ main:
         
   - title: "Blog"
     url: /blog/
+
+  - title: "Featured"
+    url: /featured/
