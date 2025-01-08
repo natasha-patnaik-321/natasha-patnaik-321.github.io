@@ -1,0 +1,16 @@
+# Example Featured Links
+# Format: 
+# - title: "Display Text for the Link"
+#   url: "https://actual-url.com"
+
+- title: "Nature, Society, and Mathematical Models"
+  url: "https://perinita.medium.com/nature-society-and-mathematical-models-3c0c5018e6e4"  # Add the actual URL for this article
+  description: "A nice example of mathematical programming for social good. Originally written for an introductory Operations Research class at Rice, edited by <a href='https://www.tylerperini.com/' target='_blank'>Tyler Perini</a>."
+
+- title: "'The Readers Write' in New York Times"
+  url: "https://www.nytimes.com/2022/12/23/opinion/russia-ruble-sanctions-economy.html"
+  description: "Around the time ChatGPT was initially released, <a href='https://www.nytimes.com/by/peter-coy' target='_blank'>Peter Coy</a> featured my response to his <a href='https://www.nytimes.com/2022/12/16/opinion/chatgpt-artificial-intelligence-skill-job.html' target='_blank'>article</a> in the New York Times."
+
+- title: "Improving the Small Business Administration's 7(a) Loan Program"
+  url: "https://www.bakerinstitute.org/research/improving-small-business-administrations-7a-loan-program"
+  description: "An article on how changes duringCOVID-19 presented new opportunities for the SBA's 7(a) loan program."
