@@ -6,11 +6,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at MIT's Operations Research Center, advised by Dr. Retsef Levi. I design data-driven tools and employ rigorous modeling techniques to support better decision-making under uncertainty, with a focus on applications that deliver societal benefit. In this vein, my research leverages optimization and machine learning to tackle critical logistical and operational challenges.
+I am a second-year Ph.D. student at [MIT's Operations Research Center](https://orc.mit.edu/), advised by Dr. Retsef Levi. I design data-driven tools and employ rigorous modeling techniques to support better decision-making under uncertainty, with a focus on applications that deliver societal benefit. In this vein, my research leverages optimization and machine learning to tackle critical logistical and operational challenges.
 
 Currently, in collaboration with [Healthcare Systems Engineering (HSE) at Massachusetts General Hospital](https://www.massgeneral.org/research/healthcare-systems-engineering), I am designing a machine learning-based approach to support capacity management decisions and improve resource allocation.
 
-Prior to MIT, I recieved my Bachelor's Degree from Rice University, with a double major in Operations Research and Mathematical Economics.
+Prior to MIT, I recieved my Bachelor's Degree from Rice University, with a double major in Operations Research and Mathematical Economics.  
 
 Education
 ======
@@ -19,6 +19,6 @@ Education
   2024 - 2029 (Expected) \
   Massachusetts Institute of Technology
 
-- **BA in Operations Research & Mathematical Economics (Double-Major)** \
+- **Bachelor's Degree in Operations Research & Mathematical Economics (Double-Major)** \
   2020 - 2024 \
   Rice University
