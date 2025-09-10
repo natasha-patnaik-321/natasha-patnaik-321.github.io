@@ -19,7 +19,7 @@ Education
   2024 - 2029 (Expected) \
   Massachusetts Institute of Technology
 
-- **Bachelor's Degree in Operations Research & Mathematical Economics**
+- **Bachelor's Degree in Operations Research & Mathematical Economics** \
   **(Double Major)** \
   2020 - 2024 \
   Rice University
