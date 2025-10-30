@@ -8,7 +8,7 @@ redirect_from:
 
 Hello! I am a second-year Ph.D. student at [MIT's Operations Research Center](https://orc.mit.edu/), advised by Dr. Retsef Levi. My research spans mathematical optimization and machine learning, with an emphasis on addressing critical operational challenges in industry settings. I develop data-driven tools and use rigorous modeling techniques to enable better decision-making under uncertainty.
 
-Currently, in collaboration with [Healthcare Systems Engineering (HSE) at Massachusetts General Hospital](https://www.massgeneral.org/research/healthcare-systems-engineering), I am designing a machine learning-based approach to support real-time capacity management decisions and improve resource allocation.
+Currently, in collaboration with [Healthcare Systems Engineering (HSE) at Massachusetts General Hospital](https://www.massgeneral.org/research), I am designing a machine learning-based approach to support real-time capacity management decisions and improve resource allocation.
 
 Prior to MIT, I received my Bachelor's Degree from Rice University, with a double major in Operations Research and Mathematical Economics.   
 
