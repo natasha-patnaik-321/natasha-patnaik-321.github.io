@@ -6,14 +6,13 @@
 
 main:
 
-  # - title: "Research"
-  #   url: /publications/ 
+  - title: "Research"
+    url: /publications/ 
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-        
   - title: "Blog"
     url: /blog/
 
-  - title: "Featured"
-    url: /featured/
+  - title: "Teaching"
+    url: /teaching/    
+
+
