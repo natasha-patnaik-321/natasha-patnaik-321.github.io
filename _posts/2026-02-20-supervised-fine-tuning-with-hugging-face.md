@@ -1,6 +1,6 @@
 ---
 title: 'Supervised Fine-Tuning with Hugging Face.'
-date: 2026-02-01
+date: 2026-02-20
 permalink: /posts/2026/02/sft-hf/
 categories:
   - Generative AI
