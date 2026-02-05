@@ -6,11 +6,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Ph.D. student at [MIT's Operations Research Center](https://orc.mit.edu/), advised by Dr. Retsef Levi. My research spans mathematical optimization and machine learning, focusing on solving critical operational challenges in industry settings. I develop data-driven tools and use rigorous modeling techniques for decision-making under uncertainty.
+Hello! I'm a Ph.D. student at [MIT's Operations Research Center](https://orc.mit.edu/), advised by Dr. Retsef Levi. My research spans mathematical optimization and machine learning, focused on solving critical operational challenges in industry settings. I develop data-driven tools and use rigorous modeling techniques for decision-making under uncertainty.
 
-Currently, in collaboration with [Healthcare Systems Engineering (HSE) at Massachusetts General Hospital](https://www.massgeneral.org/research), I am designing a machine learning and generative AI–enabled framework to support real-time capacity management decisions and improve resource allocation.
+Currently, in collaboration with the Healthcare Systems Engineering team at [Massachusetts General Hospital](https://www.massgeneralbrigham.org/en/patient-care/services-and-specialties/locations/massachusetts-general-hospital), I am designing a machine learning and generative AI-enabled framework to support real-time capacity management decisions and improve resource allocation. This work is supported by the MGH-MIT Doctoral Fellowship.
 
-Prior to MIT, I received my Bachelor's Degree from Rice University, with a double major in Operations Research (School of Engineering) and Mathematical Economics (School of Social Sciences).   
+Before MIT, I received my Bachelor's Degree from Rice University, with a double major in Operations Research (School of Engineering) and Mathematical Economics (School of Social Sciences).   
 
 Education
 ======
