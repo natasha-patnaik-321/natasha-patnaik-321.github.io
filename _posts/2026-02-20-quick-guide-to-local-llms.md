@@ -9,4 +9,4 @@ tags:
   - Quick Guide
 ---
 
-This is a sample blog post. 
+New content on the way!
