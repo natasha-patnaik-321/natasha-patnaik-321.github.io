@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 - **MIT: 15.S60**. Presenter, Computing in Optimization and Statistics. \
-  Lecture on designing LLM-backed applications, 21 Ph.D. Students. \
+  2 hour lecture on designing LLM-backed applications, 20 Ph.D. Students. \
+  Overall Instructor Rating: 5/5 (n = 7 respondents). \
   Winter 2026.
 
 - **Rice: CAAM 210**. Teaching Assistant, Introduction to Engineering Computation. \

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - [Infeasibility Certificates from Superadditive Functions for Mixed-Integer Programs.](https://optimization-online.org/2026/01/infeasibility-certificates-from-superadditive-functions-for-mixed-integer-programs/) \
-  *Submitted*. \
+  *Submitted*, 2025. \
   **N. Patnaik**, T. Anh-Nguyen, A. Gupte, A. J. Schaefer.
 
 - [Risk-aware Stochastic Control of a Sailboat.](https://ieeexplore.ieee.org/document/10644458) \
