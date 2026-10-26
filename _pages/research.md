@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
 ---
 
 - [Infeasibility Certificates from Superadditive Functions for Mixed-Integer Programs.](https://optimization-online.org/2026/01/infeasibility-certificates-from-superadditive-functions-for-mixed-integer-programs/) \
-  *Submitted*, 2025. \
+  *Optimization Online Preprint*, 2026. \
   **N. Patnaik**, T. Nguyen, A. Gupte, A. J. Schaefer.
 
 - [Risk-aware Stochastic Control of a Sailboat.](https://ieeexplore.ieee.org/document/10644458) \
