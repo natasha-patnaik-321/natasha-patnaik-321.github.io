@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- **MIT 15.S60 - Computing in Optimization and Statistics.** Head Instructor. \
+- **MIT 15.S60 - Computing in Optimization and Statistics.** Instructor of Record. \
   Winter 2027 (upcoming).
 
 - **MIT: 15.761 - Introduction to Operations Management.** Teaching Assistant. \
